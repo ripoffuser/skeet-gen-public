@@ -1,7 +1,7 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/7/70/Skeet_menu.png" width="20%" height="20%"/>
  <a href="https://github.com/ripoffuser">bloxsense</a> |
  <a href="https://discord.com/channels/@me/1039607467119755294">Jett Self</a> |
- <a href="[">Stryce</a>
+ <a href="https://discord.com/channels/@me/1040104115356848129">Stryce</a>
  
  
 # Skeet Generator v1.0
